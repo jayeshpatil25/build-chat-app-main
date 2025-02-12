@@ -1,1 +1,1 @@
-
+A real-time chat web application using Socket.io, which facilitates seamless and instant communication between users. This project involves creating both the client-side and server-side components to handle user connections, message broadcasting, room management, user notifications, scalability and responsive design.
